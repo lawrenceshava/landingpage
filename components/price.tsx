@@ -122,7 +122,7 @@ export default function PricingPage() {
             </svg> */}
            
             <h4 className="h4 mb-2">Enterprise Plan</h4>
-            <p className="text-lg text-gray-400 text-center pb-10">more than 20 cameras</p>
+            <p className="text-lg text-gray-400 text-center pb-10">more than 22 cameras</p>
             <div id="paypal-button-container-P-2KS715473P469860YM2TE4LI"></div>
           </div>
 
